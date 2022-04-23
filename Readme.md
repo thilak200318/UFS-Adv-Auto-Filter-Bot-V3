@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3">
+<a href="https://heroku.com/deploy?template=https://github.com/thilak200318/UFS-Adv-Auto-Filter-Bot-V3/edit/main/Readme.md">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3
+git clone https://github.com/thilak200318/UFS-Adv-Auto-Filter-Bot-V3/edit/main/Readme.md
 cd Adv-Auto-Filter-Bot-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
